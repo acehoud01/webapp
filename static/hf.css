@@ -1,0 +1,82 @@
+body {
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+    background: linear-gradient(to right, #E0E4CC, #F7FFF7); /* soft green to light mint gradient */
+    color: #556B2F; /* dark olive green text for natural feel */
+    margin: 5% 10%;
+    border: 3px dashed #8FBC8F; /* subdued forest green border */
+    padding: 20px;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #6B8E23; /* olive drab for links */
+}
+
+a:hover {
+    color: #556B2F; /* darker green on hover for a subtle effect */
+    text-decoration: underline;
+}
+
+a img {
+    border: none;
+}
+
+h2 {
+    font-size: 2em;
+    color: #228B22; /* forest green for headings */
+    text-shadow: 1px 1px #ADFF2F; /* green yellow for a soft shadow */
+}
+
+table {
+    width: 100%;
+    background-color: #FFFFFF;
+    border: 2px solid #20B2AA; /* light sea green border */
+    margin: 20px 0;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* subtle shadow for depth */
+}
+
+td, th {
+    padding: 10px;
+    border: 1px dotted #8FBC8F; /* forest green dotted borders */
+    text-align: center;
+}
+
+input[type="text"], select {
+    font-size: 1em;
+    width: 100%;
+    padding: 10px;
+    background-color: #FFF8DC; /* cornsilk background for soft contrast */
+    border: 2px solid #DEB887; /* burlywood border for an earthy look */
+    border-radius: 5px;
+}
+
+input[type="submit"] {
+    font-size: 1em;
+    padding: 12px 24px;
+    background-color: #8FBC8F; /* forest green button */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+input[type="submit"]:hover {
+    background-color: #556B2F; /* darker green on hover */
+}
+
+.copyright, .slogan {
+    font-size: 0.85em;
+    font-style: italic;
+    color: #20B2AA; /* light sea green for a refreshing look */
+}
+
+.confirmentry {
+    font-weight: bold;
+    color: #6B8E23; /* olive drab for visibility and impact */
+}
+
+
+
