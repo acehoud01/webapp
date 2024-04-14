@@ -1,7 +1,7 @@
 body {
     font-family: 'Arial', sans-serif;
     font-size: 16px;
-    background: linear-gradient(to right, #E0E4CC, #F7FFF7); /* soft green to light mint gradient */
+    background: linear-gradient(to right, #E0E4CC, #F7FFF7); 
     color: #556B2F; /* dark olive green text for natural feel */
     margin: 5% 10%;
     border: 3px dashed #8FBC8F; /* subdued forest green border */
